@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Callback Heaven</title>
-    <link>http://example.org/tags/post/</link>
+    <link>https://callbakcheaven.com/tags/post/</link>
     <description>Recent content in Post on Callback Heaven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sameer Balasubrahmanyam - All rights reserved</copyright>
     <lastBuildDate>Tue, 22 Jan 2019 23:49:25 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://callbakcheaven.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/blog/my-first-post/</link>
+      <link>https://callbakcheaven.com/blog/my-first-post/</link>
       <pubDate>Tue, 22 Jan 2019 23:49:25 -0800</pubDate>
       
-      <guid>http://example.org/blog/my-first-post/</guid>
+      <guid>https://callbakcheaven.com/blog/my-first-post/</guid>
       <description>Lorem Ipsum</description>
     </item>
     
