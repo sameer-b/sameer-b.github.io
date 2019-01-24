@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Callback Heaven"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Sameer Balasubrahmanyam - All rights reserved"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+
+[params.index]
+#  picture = "/images/author.jpg"
+  title = "Sameer Balasubrahmanyam"
+  subtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading'''
+  alertbar = true
