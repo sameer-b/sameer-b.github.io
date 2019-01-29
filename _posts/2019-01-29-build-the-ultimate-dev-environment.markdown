@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Build the ultimate dev environment using Windows 10 + Linux Subsystem + HyperJS + Zsh + Oh-My-Zsh"
+layout: single
+title:  "Build the ultimate dev environment using Windows 10 + Linux Subsystem + Hyper + Zsh + Oh-My-Zsh"
 date:   2019-01-27 21:21:10 -0800
-categories: windows linux
+tags: windows linux
 ---
 
 I've been a Linux user for a long time, I've also been a Windows user for a long time. I've picked the best OS for the job at any given time and always had access to systems that were setup to dual boot. Dual boot is great, you almost have the best of both worlds but there is a lot of context switching involved since at any given point you can only run a single OS. In this post I'm going to talk about how to setup Linux Subsystem on Windows 10 and integrating it with Hyper (Let's face it, the Windows terminal SUCKS!).
