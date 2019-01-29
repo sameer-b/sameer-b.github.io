@@ -23,7 +23,6 @@ group :jekyll_plugins do
   gem "github-pages", "~> 193"
   gem "jekyll-include-cache", "0.1.0"
   gem "jekyll-sitemap", "1.2.0"
-  gem "jekyll-archives"
   gem "jekyll-seo-tag"
 end
 
