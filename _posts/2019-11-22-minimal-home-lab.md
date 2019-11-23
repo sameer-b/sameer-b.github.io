@@ -32,33 +32,33 @@ Self hosting doesn't necessarily mean self hosting the hardware. You may very we
 
 1. Install Next Cloud: I prefer using Snap since I'm using Ubuntu. It's as simple as executing the following command.
 
-    `sudo snap install nextcloud`
+    sudo snap install nextcloud
 
 2. Setup admin account
 
-    `sudo nextcloud.manual-install <user name> <password>`
+    sudo nextcloud.manual-install <user name> <password>
 
 3. Setup a custom trusted domain
 
 This step assumes you already have purchased a domain name from a DNS provider.
 
-    `sudo nextcloud.occ config:system:set trusted_domains 1 --value=nextcloud.mydomain.com`
+    sudo nextcloud.occ config:system:set trusted_domains 1 --value=nextcloud.mydomain.com
 
 4. Setup SSL using Let's Encrypt
 
 First off open up TCP port 80/443
 
-    `sudo ufw allow 80,443/tcp`
+    sudo ufw allow 80,443/tcp
 
 Generate the cert, follow the prompt the answer the questions.
 
-    `sudo nextcloud.enable-https lets-encrypt`
+    sudo nextcloud.enable-https lets-encrypt
 
 # Setup Pi-hole
 
 Installing Pi-hole is simple just run the following command. Head over to their [github](https://github.com/pi-hole/pi-hole] for alternative ways to install if executing a script off the internet is not your thing.
 
-    `curl -sSL https://install.pi-hole.net | bash`
+    curl -sSL https://install.pi-hole.net | bash
 
 Now that Pi-Hole is setup, you will need to head over to your network router and set your home server as your default DNS server. I'm running a Netgear Router and this is what my configuration looks like.
 
