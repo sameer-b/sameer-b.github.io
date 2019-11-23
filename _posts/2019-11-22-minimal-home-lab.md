@@ -56,7 +56,7 @@ Generate the cert, follow the prompt the answer the questions.
 
 # Setup Pi-hole
 
-Installing Pi-hole is simple just run the following command. Head over to their [github](https://github.com/pi-hole/pi-hole] for alternative ways to install if executing a script off the internet is not your thing.
+Installing Pi-hole is simple just run the following command. Head over to their [github](https://github.com/pi-hole/pi-hole) for alternative ways to install if executing a script off the internet is not your thing.
 
     curl -sSL https://install.pi-hole.net | bash
 
