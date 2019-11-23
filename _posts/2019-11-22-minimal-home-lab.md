@@ -31,13 +31,13 @@ Self hosting doesn't necessarily mean self hosting the hardware. You may very we
 # Setup Next Cloud
 
 1. Install Next Cloud: I prefer using Snap since I'm using Ubuntu. It's as simple as executing the following command.
-
+```
     sudo snap install nextcloud
-
+```
 2. Setup admin account
-
+```
     sudo nextcloud.manual-install <user name> <password>
-
+```
 3. Setup a custom trusted domain
 
 This step assumes you already have purchased a domain name from a DNS provider.
