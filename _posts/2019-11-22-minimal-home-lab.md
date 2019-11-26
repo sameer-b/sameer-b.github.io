@@ -1,11 +1,9 @@
 ---
 layout: single
-title:  "Minimal Home Lab setup using NextCloud and PiHole"
+title:  "Minimal Self Hosted Home Lab with NextCloud and PiHole"
 date:   2019-11-22 21:21:10 -0800
 tags: homelab linux selfhosted
 ---
-
-# Minimal self hosted home lab
 
 I've always been a huge fan of self hosting for variety of reasons. In this post I will cover my personal setup; focusing mostly on the software side of things. I won't cover much hardware since it's a topic of its own. 
 
