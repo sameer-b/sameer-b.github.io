@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Minimal home lab"
+title:  "Minimal Home Lab setup using NextCloud and PiHole"
 date:   2019-11-22 21:21:10 -0800
 tags: homelab linux selfhosted
 ---
