@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Stop abusing interfaces!"
+title:  "Meaningful Abstractions"
 date:   2019-01-29 21:21:10 -0800
 tags: software architecture
 ---
