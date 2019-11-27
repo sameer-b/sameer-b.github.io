@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Meaningful Abstractions"
+title:  "Build Meaningful Abstractions"
 date:   2019-01-29 21:21:10 -0800
 tags: software architecture
 ---
