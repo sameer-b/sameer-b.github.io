@@ -26,6 +26,9 @@ Self hosting doesn't necessarily mean self hosting the hardware. You may very we
 
 **DNS Server:** Pi-hole
 
+![Final Product](/assets/img/home_lab.png)
+
+
 # Setup Next Cloud
 
 1. Install Next Cloud: I prefer using Snap since I'm using Ubuntu. It's as simple as executing the following command.
