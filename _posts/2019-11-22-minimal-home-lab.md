@@ -63,6 +63,8 @@ Installing Pi-hole is simple just run the following command. Head over to their 
 
 Now that Pi-Hole is setup, you will need to head over to your network router and set your home server as your default DNS server. I'm running a Netgear Router and this is what my configuration looks like.
 
+![Home Lab Diagram](/assets/img/dns-02ef144f-41cf-4390-8da3-f9ee7f10e92f.jpg)	
+
 ## Speed up access over local network
 
 Devices on the local network do not need to go across the world to talk to your server. There is a simple workaround for this if you're using Pi-hole. Simply add the mapping for your domain name and local IP of the server.
