@@ -22,7 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "github-pages", "~> 193"
   gem "jekyll-include-cache", "0.2.0"
-  gem "jekyll-sitemap", "1.2.0"
+  gem "jekyll-sitemap", "1.4.0"
   gem "jekyll-seo-tag"
 end
 
